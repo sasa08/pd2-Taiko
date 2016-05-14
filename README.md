@@ -3,7 +3,11 @@
 UML class diagram:
 
 screen shot:
-
+http://ppt.cc/aQIHj
+http://ppt.cc/CzSqf
+http://ppt.cc/Wd2vn
+http://ppt.cc/vCKgy
+http://ppt.cc/FeKgp
 
 how to play:
 1.start the game
