@@ -459,6 +459,7 @@ void Scene::showTime(){
         this->removeItem(how2);
         this->removeItem(h1);
         this->removeItem(h2);
+         this->removeItem(special);
         sco -> setPos(QPointF(200, 150));
         txtitem-> setPos(QPointF(300, 150));
 
