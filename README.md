@@ -17,3 +17,10 @@ how to play:
 5.Game over and tell the player his score
 
 program architecture:
+
+---start---
+1.main.cpp-> mainwindow.cpp -> setUp(ui) -> set start page () -> scene.cpp
+---enter main game(scene.cpp)---
+2.Init()->
+
+
